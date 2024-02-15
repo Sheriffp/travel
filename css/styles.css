@@ -819,6 +819,12 @@ footer{
         font-size: 1.8rem;
         line-height: 2rem;
     }
+    #subscribe {
+        padding: 15px;
+    }
+    #subscribe p{
+        text-align: center;
+    }
 }
 @media (max-width:600px) {
     .main-img{
